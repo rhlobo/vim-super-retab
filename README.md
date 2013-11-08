@@ -13,7 +13,7 @@ This is a mirror of [VimTip1592][1]
 | :----------- | --------------------------------------------------------------------: |
 | Space2Tab    | Convert spaces to tabs, only in indents.                              |
 | Tab2Space    | Convert tabs to spaces, only in indents.                              |
-| RetabIndent  | Execute Space2Tab (if 'expandtab' is set), or Tab2Space (otherwise).  |
+| RetabIndent  | Execute Space2Tab (if `expandtab` is set), or Tab2Space (otherwise).  |
 
 
 ### Features
