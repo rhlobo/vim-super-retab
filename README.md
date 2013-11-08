@@ -18,7 +18,7 @@ This is a mirror of [VimTip1592][1]
 
 ### Features
 
-- The commands allow an argument to specify the column width; if none is given, the 'tabstop' setting is used.
+- The commands allow an argument to specify the column width; if none is given, the `tabstop` setting is used.
 - Redundant spaces in an indent are removed (in the above mapping, converting tabs to spaces will not change lines where there is a space before a tab in the indent).
 - The search history is not changed (pressing n will do the same search it would have done before the conversion was performed).
 - The cursor position is restored, although the column will be slightly wrong owing to the different number of characters in the indent.
